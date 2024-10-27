@@ -136,6 +136,8 @@ screen sizes.
   cd ../frontend
 2.Start the frontend application
   npm start
+
+
   ## Contact
   kumarmanish60505@gmail.com
   Manishkumar090-art
